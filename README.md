@@ -16,7 +16,7 @@ I would love to bridge the gap between complex data systems (like biological and
 ### 🔬 Scientific Research & Data Background
 - **Domain Expertise:** Renal Toxicity, Oxidative Stress Biomarkers, and Drug-Toxin Interactions.
 - **Recent Publication:** *Therapeutic azithromycin mitigated monosodium glutamate-related dysfunction in rats...* (Biology, Medicine, & Natural Product Chemistry, 2024).
-- **Problem Solving:** Currently solving algorithmic and computational problems on **Rosalind.info**.
+- **Problem Solving:** Currently solving algorithmic and computational problems.
 
 ### 📈 Current Learning Path
 - 🐍 Advanced Python automation scripts for handling complex datasets.
